@@ -1,0 +1,10 @@
+Transaction code is 5822590 
+The date of transaction is Mon Oct 03 00:27:20 EET 2022
+The amount of Deposit is +100.0
+your current balance is 1100.0
+***************************************
+Transaction code is 5219760 
+The date of transaction is Sat Jul 29 19:03:42 EET 2023
+The amount of Deposit is +200.0
+your current balance is 1200.0
+***************************************
